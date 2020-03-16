@@ -46,7 +46,7 @@
 |harried|穷追不舍|
 |enemy|敌人|
 |constantly|不断地|
-|drawing|牵引（此处表：引诱敌人的意思）|
+|drawing|牵引（此处表：引诱敌人）|
 |patrols|巡逻队|
 |halted|阻止|
 |raiding parties|掠夺队|
