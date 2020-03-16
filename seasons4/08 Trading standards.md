@@ -1,4 +1,8 @@
-slaughtered
+|English|中文|
+|:----|---:|
+|slaughtered|这个| 
+|slaughtered|这个| 
+
 regulations
 tariffs
 farmers
