@@ -1,7 +1,7 @@
 |English|中文|
 |:--|:--|
 |trends|趋势|
-|integrated|circuits 集成电路|
+|integrated circuits|集成电路|
 |produce|生产|
 |chips|芯片|
 |much the way|就像。。。|
