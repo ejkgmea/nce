@@ -41,22 +41,22 @@ depended 依赖
 irregular  不定期  
 advance 进攻  
 risk 风险  
-harried 穷追不舍
-enemy 敌人
-constantly 不断地
-drawing 牵引（在此处表：引诱，诱导的意思）
-patrols 巡逻队
-halted 阻止
-raiding parties 掠夺队
-assailed 攻击
-series 一系列
-skirmishes 小规模战斗
+harried 穷追不舍  
+enemy 敌人  
+constantly 不断地  
+drawing 牵引（在此处表：引诱，诱导的意思）  
+patrols 巡逻队  
+halted 阻止  
+raiding parties 掠夺队  
+assailed 攻击  
+series 一系列  
+skirmishes 小规模战斗  
 within a month 不到一个月  
 surrendered 投降  
-episode 一个事件
-reasonably 合理
-serve as 充当
-epic 史诗级
+episode 一个事件  
+reasonably 合理  
+serve as 充当  
+epic 史诗级  
 
 
 Alfred the Great 曾亲自充当自己的间谍，他扮演巡演歌手到丹麦军营里侦察。当时，浪迹天涯的巡演歌手受到很多地方的欢迎。他们不是作战人员，竖琴就是他们的通行证。Alfred 年轻的时候在那里学了他们很多民谣，还可在自己的节目当中穿插一些杂技和小魔术。
