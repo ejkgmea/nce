@@ -1,21 +1,40 @@
 |English|中文|
 |:--|:--|
-|slaughtered|屠宰场| 
-|regulations||
-|tariffs||
-|farmers||
-|complaining||
-|dialysis||
-|Politicians||
-|eliminate||
-|negotiators||
-|optimistic||
-|complex||
-|medical||
-|pacts||
-|electronic||
-|drug||
-|manufacturing||
-|continental ||
-|traditions||
-|perhaps||
+|slaughter|屠宰| 
+|regulations|规定|
+|claim|自称|
+|officials|官员|
+|tariffs|关税|
+|farmers|农民|
+|complaining|抱怨|
+|dialysis|透析|
+|electrocute|触电受伤|
+|Politicians|政治家|
+|principle|规则|
+|eliminate|取消|
+|in time|尽快|
+|summit|峰会|
+|negotiators|谈判代表|
+|optimistic|乐观的|
+|complex|复杂的|
+|hard-pressed|举步维艰|
+|construct|起草，构建|
+|agreements|意见一致|
+|medical|医疗|
+|reach|达成|
+|accord|一致|
+|hammer|推敲|
+|pacts|合约|
+|electronic|电子的|
+|drug|药品|
+|manufacturing|量产|
+|continental|大陆的|
+|traditions|传统的|
+|applied|应用|
+|perhaps|或许|
+
+自称是 Brussels 的官员说，美屠宰的鸡放在欧洲的餐桌上不优雅。美国人说：不，我们的家禽很只的，我们只是用了另一种清洗方式。当前，因为各国规则不一样，而不是关税过高阻碍了发达国家之间的贸易。不仅农名在抱怨。一把符合欧盟的安全标准的电动剃须刀必须得到美测试人员的批准才能在美国市场上销售，而美国制造的透析仪也要得到欧盟的同意才能进入欧洲市场。
+
+碰巧在欧洲使用安全的剃须刀不大可能使美国人触电受伤。所以，大西洋两岸的企业都在问，为什么需要两套测试标准一套不行吗？政治家在原则上同意了， 因此，美国和欧洲一直在寻求达成协议，以便为许多产品取消双重检查。他们希望尽早达成协议，为 5 月 28 号美国和欧洲的贸易峰会做准备。虽然谈判代表持乐观态度，但协议细节如此复杂，他们所面临的困难很可能使他们无法取得一致。
+
+为什么呢？一个很困难的问题就起这份协议，怎么达到意见一致。美国人很乐意就医疗器械的标准达成一个协议，然后推敲出不同的合约，用以涵盖 —— 比如说 —— 电子产品和药品的量产。欧洲人遵循优良的大陆传统，希望就普遍的原则取得一致，因为这些原则适用于许多不同类型的产品，或许还能延伸到其它国家。
