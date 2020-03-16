@@ -1,64 +1,34 @@
-trends 趋势
-
-integrated circuits 集成电路
-
-produce 生产
-
-chips 芯片
-
-much the way 就像。。。
-
-newsletter 时事通讯
-
-cost 成本
-
-drop 下降
-
-imaginations 想象力
-
-soar 形容：很快
-
-predicts 预测
-
-inventors 发明者
-
-spawning 孵化
-
-start-ups 初创企业
-
-foreign rivals 国外竞争对手
-
-getting 越来越
-
-thrive 成长
-
-anarchy 无政府状态
-
-orientals 东方人
-
-constitute 构成
-
-majority 大多数
-
-firms 企业
-
-can draw on 可以凭借
-
-customs 习惯，习俗
-
-forge 发展
-
-tighter links 紧密联系
-
-crucial 关键
-
-Pacific Rim markets 太平洋沿岸市场
-
-plant 支持
-
-financing 资助
-
-retirement 退休
+trends 趋势  
+integrated circuits 集成电路  
+produce 生产  
+chips 芯片  
+much the way 就像。。。  
+newsletter 时事通讯  
+cost 成本  
+drop 下降  
+imaginations 想象力    
+soar 形容：很快  
+predicts 预测  
+inventors 发明者  
+spawning 孵化  
+start-ups 初创企业  
+foreign rivals 国外竞争对手  
+getting 越来越  
+thrive 成长  
+anarchy 无政府状态  
+orientals 东方人  
+constitute 构成  
+majority 大多数  
+firms 企业  
+can draw on 可以凭借  
+customs 习惯，习俗  
+forge 发展  
+tighter links 紧密联系  
+crucial 关键  
+Pacific Rim markets 太平洋沿岸市场  
+plant 支持    
+financing 资助  
+retirement 退休  
 
 技术发展趋势有可能把硅谷重新推向未来，一个叫 Carver Mead 的集成电路设计界的传奇人物，加州理工学院的计算机教授，注意到，现在有些计算机工作站可以让工程师直接在他们的办公桌上设计、试验和生产芯片，就像在苹果电脑上写一份时事通讯一样简单。因为制造芯片的时间和成本下降到几天和几百美，所以工程师们可以很快且大胆的发挥他们那些快要爆炸的想象力，而不用担心失败会带来经济上的损失。Mead 预测发明者能够在办公室花上一个周末的时间里打造出完美且强大的芯片 —— 孵化出了一代在车库创业的公司，在把新产品推向市场方面使美国比它的国外竞争对手们抢先一步。
 “我们有更多的车库和聪明人”，Mead 观察到，“我们确实是在无政府状态下成长的。”
