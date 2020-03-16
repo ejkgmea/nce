@@ -1,0 +1,10 @@
+extraordinary
+utilitarian
+role
+appreciation
+inventions
+vicinity
+obstruction
+apparatus
+comparatively
+herring

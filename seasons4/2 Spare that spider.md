@@ -1,0 +1,16 @@
+insects
+enemies
+devour
+crops
+flocks
+herds
+protection
+beasts
+fraction
+Moreover
+belongings
+engaged
+authority
+census
+estimated
+creatures

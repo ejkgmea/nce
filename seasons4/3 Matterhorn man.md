@@ -1,0 +1,19 @@
+alpinists
+regarded
+pioneering
+sought
+attained
+explorations
+perilous nature
+equipped
+excitement
+rapidly
+popular
+impoverished
+settlements
+civilization
+generally
+accompanied
+parishioners
+shepherds
+Invariably

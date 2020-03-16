@@ -1,0 +1,15 @@
+Several
+concerns
+perceive
+ability
+curious
+talent
+scientific
+institute
+research
+series
+special
+commission
+stranger
+sensitivity
+blindfold
