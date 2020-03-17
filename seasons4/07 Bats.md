@@ -8,13 +8,34 @@ It has been found that certain bats emit squeaks and by receiving the echoes, th
 
 MAURICE BURTON Curiosities of animal life
 
-extraordinary
-utilitarian
-role
-appreciation
-inventions
-vicinity
-obstruction
-apparatus
-comparatively
-herring
+|English|中文|
+|:--|:--|
+|extraordinary|非同寻常，非凡|
+|strictly|明确的|
+|utilitarian|实用的|
+|role|角色|
+|play a role in|在...方面起作用|
+|appreciation|理解|
+|inventions|发明|
+|vicinity|附近|
+|hull|船体|
+|reflected|反映|
+|measuring|计量|
+|depth|深度|
+|obstruction|障碍物|
+|apparatus|设备|
+|A shoal of fish|鱼群|
+|experience|经验|
+|improved|改善|
+|comparatively|测量|
+|herring|鲱鱼|
+|cod|鳕鱼|
+|pattern|特点|
+|certain|某些|
+|compared|比较|
+
+动物发出声音不全是为了对话。我们只需要借助一个很不寻常的发现，蝙蝠运用回声音定位的例子，它能通过回声来确定哪些东西有实用价值。
+
+要透彻理解这句话的涵义，我们应先回顾一下人类最近的几项发明。大家都知道，在墙壁或山腰附近发出的喊声，就会听到回声。作为反弹的那个实体障碍物离你越远，回声回来的所花的时候就越久。敲打船体所发了的声音会从海底传回来，测出回声间隔的时间，便可算出该处海洋的深度。任何固体对象反射声音，都会根据物体的大小和性质而发生变化。鱼群也可以反射声音。所以，测量海底定位鱼群这些测量都挺简单的。根据经验和改进后的仪器，不仅能够确定鱼群的位置，而且可以根据鱼群回声的特点分辨出是鲱鱼、鳕鱼，或是人们所熟悉的其他鱼类。
+
+人们发现，某些蝙蝠能发出尖叫声，并能通过回声来确定并躲开障碍物，或找到它们赖以为生的昆虫。蝙蝠这种回声定位常常和雷达相放一起比较，其原理是相似的。
