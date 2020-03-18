@@ -38,12 +38,12 @@ GEORGE ORWELL The sporting spirit
 |virtue|素质|
 
 ## 短句
- * lead to orgies of hatredd 导致疯狂的仇恨
- * little meaning 没什么意义
- * utmost to win 尽全力去赢；拼命去赢
- * pick up sides 选队伍
- * larger unit 大团体；大家
- * short periods 短期
+* lead to orgies of hatredd 导致疯狂的仇恨
+* little meaning 没什么意义
+* utmost to win 尽全力去赢；拼命去赢
+* pick up sides 选队伍
+* larger unit 大团体；大家
+* short periods 短期
 
 当我听人们说体育运动可建立国家之间的友谊，还说各国民众若在足球场或板球场上交锋，就不愿在战场上残杀的时候，我总是惊讶不已。一个人即使不能从具体的事例（例如1936年的奥林匹克运动会）了解到国际运动比赛会导致疯狂的仇恨，也可以从常理中推断出结论。
 
