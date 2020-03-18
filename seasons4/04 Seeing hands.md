@@ -6,18 +6,36 @@ Vera's curious talent was brought to the notice of a scientific research institu
 
 ERIC DE MAUNY Seeing hands from The Listener
 
-Several
-concerns
-perceive
-ability
-curious
-talent
-scientific
-institute
-research
-series
-special
-commission
-stranger
-sensitivity
-blindfold
+|English|中文|
+|:--|:--|
+|Several|几个|
+|concerns|谈到|
+|vision|视力|
+|perceive|察觉|
+|ability|能力|
+|curious|好奇|
+|talent|天赋|
+|brought|引起|
+|scientific|科学|
+|research|研究|
+|institute|机构|
+|series|系列|
+|special|特别|
+|commission|委员会|
+|opaque|不透明|
+|stranger|奇怪|
+|elbow|手肘|
+|outlines|轮廓|
+|describe|描述|
+|carpet|地毯|
+|sensitivity|敏感性|
+|blindfold|眼罩|
+
+# 短句
+* scientific research institute 科研机构
+* stranger still 更为奇怪的是
+* make out 认出
+
+俄罗斯最近报导了几个事例，有人能用手指看书识字和辨认颜色，甚至能透过厚实的门和墙看到东西。她的视力与常人一样，但她还能用皮肤的不同部位辨认东西，甚至看穿坚实的墙壁。是他的父亲先发现她这一能力的。一天，维拉走进父亲的办公室，偶然把手放在一个锁着的保险柜的门上，她突然问父亲为什么把这么多的旧报纸锁在柜子里，还说了报纸捆扎的情况。
+
+维拉的特异功能引起了她家附近乌里扬诺夫斯克城一个科研单位的注意。4月里，俄罗斯卫生部一个特别委员会对她进行了一系列的测试。在这些测试中，她能隔着不透明的屏幕读报纸。还有一次，她穿着长筒袜子和拖鞋，能用脚步识别出藏在地毯下面的一幅画的轮廓和颜色。其他实验表明，她的膝盖和双肩有类似的感觉能力，在所有这些实验中，维拉的双眼都是蒙着的。如果不蒙上双眼她的皮肤就不再具有识别物体的能力。这是千真万确的。同时还发现，尽管她能用手指识别东西，但她的手一旦弄湿，这种功能便会立即消失。
