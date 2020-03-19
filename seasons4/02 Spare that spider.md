@@ -8,19 +8,37 @@ How many spiders are engaged in this work on our behalf? One authority on spider
 
 T.H.GILLESPIE Spare that spider from The Listener
 
-insects
-enemies
-devour
-crops
-flocks
-herds
-protection
-beasts
-fraction
-Moreover
-belongings
-engaged
-authority
-census
-estimated
-creatures
+|English|中文|
+|:--|:--|
+|insects|昆虫|
+|enemies|敌人|
+|race|种族|
+|devour|吞食|
+|crops|庄稼|
+|flocks|羊群|
+|herds|牛群|
+|protection|保护|
+|beasts|野兽|
+|fraction|部分|
+|Moreover|此外|
+|belongings|财产，财物|
+|nearly|几乎|
+|related|相关|
+|almost|几乎|
+|engaged|雇佣，效力|
+|authority|权威|
+|census|调查|
+|estimated|估计|
+|wildest|野生|
+|creatures|生物|
+|weight|重量|
+
+# 短句
+* almost at a glance 几乎一眼（就能看出）
+* grass field 草地
+
+你可以会很好奇，为什么蜘蛛会是我们的朋友呢？因为它们能消灭那么多的昆虫，其中包括一些人类的大敌，要不是人类受一些食虫动物的保护，昆虫就会使我们无法在地球上生活下去，昆虫会吞食我们的全部庄稼，杀死我们的成群的牛羊。我们要十分感谢那些吃昆虫的鸟和兽，然而把它们所杀死的昆虫全部加在一起也只相当于蜘蛛所消灭的一小部分。
+
+许多人认为蜘蛛是昆虫，但它们不是昆虫，甚至与昆虫毫无关系。人们几乎一眼就能看出二者的差异，因为蜘蛛都是8条腿，而昆虫的腿从不超过6条。
+
+有多少蜘蛛在为我们效力呢？一位研究蜘蛛的权威对英国南部一块草坪上的蜘蛛作了一次调查。他估计每英亩草坪里有225万多只蜘蛛。也就是说，在一个足球场上约有600万只不同种类的蜘蛛。蜘蛛至少有半年在忙于吃昆虫。它们一年中消灭了多少昆虫，我们简直无法猜测，它们是吃不饱的动物，不满意一日三餐。据估计，在英国蜘蛛一年里所消灭昆虫的重量超过这个国家人口的总重量。
