@@ -6,36 +6,55 @@ BERTRAND RUSSELL How to grow old from Portraits from Memory
 
 |English|中文｜
 |:--|:--|
-|oppressed|null|
-|justification|null|
-|justifiably|null|
-|cheated|null|
-|joys|null|
-|sorrows|null|
-|achieved|null|
-|ignoble|null|
-|interests|null|
-|gradually|null|
-|impersonal|null|
-|ego|null|
-|recede|null|
-|increasingly|null|
-|merged|null|
-|universal|null|
-|individual|null|
-|existence|null|
-|rushing|null|
-|passionately|null|
-|boulders|null|
-|waterfalls|null|
-|Gradually|null|
-|wider|null|
-|recede|null|
-|quietly|null|
-|painlessly|null|
-|suffer|null|
-|cares|null|
-|decay|null|
-|vitality|null|
-|weariness|null|
-|increases|null|
+|oppressed|压抑|
+|justification|情有可原|
+|justifiably|情有可原|
+|bitter|痛苦|
+|cheated|剥夺，欺骗|
+|joys|开心的，高兴的|
+|sorrows|悲伤的，痛苦的|
+|achieved|成就|
+|abject|悲惨的|
+|ignoble|不光彩的，卑鄙的|
+|gradually|逐渐|
+|wider|广泛|
+|impersonal|客观的|
+|ego|自尊|
+|recede|倒塌|
+|increasingly|慢慢的|
+|merged|合并|
+|universal|普通的|
+|individual|个|
+|existence|存在|
+|rushing|急促的|
+|narrowly|狭义，狭窄|
+|passionately|激动|
+|boulders|巨石|
+|waterfalls|瀑布|
+|Gradually|逐渐的|
+|wider|宽松的|
+|recede|后撤|
+|flow|流动|
+|quietly|平静的|
+|painlessly|无痛苦的|
+|suffer|忍受|
+|cares|小心|
+|decay|衰退|
+|vitality|精力|
+|weariness|疲惫感|
+|increases|增加|
+|rest|安息|
+
+# 短句
+* feel bitter in the thought 在思想上感到痛苦
+* bit by bit 一点一点的；逐步的
+* universal life 普通的生活
+* an individual human 个人
+* narrowly contained within its banks 紧紧包含在其两岸之间
+* rushing passionately past boulders 激动的冲过巨石
+* without any visible break 连绵不断地
+* suffer from 遭受
+* the thought of rest 安息的想法
+* carry on 继续
+
+有些老年人因为怕死而感到压抑。青年人有这种感觉是情有可原的。有理由害怕自己会死在战场上的年轻人，想到自己被剥夺了生活所能给予的最美好的东西时，感到痛苦，这是可以理解的。可是老年人已经饱尝了人间的甘苦，一切能做的都做了，如果怕死，就有点儿可怜又可鄙。克服怕死的最好办法 -- 至少在我看来是这样 -- 就是逐渐使自己的兴趣更加广泛，逐渐摆脱个人狭小的圈子，直到自我的围墙一点一点地倒塌下来，自己的生活慢慢地和整个宇宙的生活融合在一起。个人的存在应该像一条河流，开始很小，被紧紧地夹在两岸中间，接着热情奔放地冲过巨石，飞下瀑布。然后河面渐渐地变宽，两岸后撤，河水流得平缓起来，最后连绵不断地汇入大海，毫无痛苦地失去了自我的存在。上了年纪的人这样看待生命，就不会有惧怕死亡的心情了，因为自己关心的一切事件都会继续下去。再者，随着精力的衰退，老年人的疲惫感会增长，有长眠的愿望未尝不是一件好事。我希望工作到死为止，明白了有人会继续我的未竟事业，想到能做的事都做了，也就坦然了。
