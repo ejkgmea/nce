@@ -4,7 +4,7 @@ Some old people are oppressed by the fear of death. In the young there is a just
 
 BERTRAND RUSSELL How to grow old from Portraits from Memory
 
-|English|中文｜
+|English|中文|
 |:--|:--|
 |oppressed|压抑|
 |justification|情有可原|
