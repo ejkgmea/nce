@@ -8,7 +8,7 @@ BERTRAND RUSSELL How to grow old from Portraits from Memory
 |:--|:--|
 |oppressed|压抑|
 |justification|情有可原|
-|justifiably|情有可原|
+|justifiably|有理由|
 |bitter|痛苦|
 |cheated|剥夺，欺骗|
 |joys|开心的，高兴的|
@@ -47,6 +47,7 @@ BERTRAND RUSSELL How to grow old from Portraits from Memory
 
 # 短句
 * feel bitter in the thought 在思想上感到痛苦
+* so at least it seems to me 至少在我看来
 * bit by bit 一点一点的；逐步的
 * universal life 普通的生活
 * an individual human 个人
